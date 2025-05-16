@@ -14,3 +14,11 @@ Clone the repo and run:
 
 ```bash
 go run main.go
+```
+
+Then send a request:
+```bash
+```bash
+curl -v http://localhost:4221/echo/test
+```
+
